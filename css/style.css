@@ -212,8 +212,8 @@ video + p{
 
 
     .recipe img {
-        display: block; /* Ensure images behave like block elements */
-        margin: 0 auto; /* Center the images horizontally */
+        display: block;
+        margin: 0 auto;
     }
 
     .ingredient-list ul,
